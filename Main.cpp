@@ -59,7 +59,7 @@ int main()
         std::cout << "you>>";
         std::cin >> user;
         if (user == "shitou") {
-	    shitou();
+	        shitou();
         }
         else if (user == "jiandao") {
             jiandao();
