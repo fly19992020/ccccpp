@@ -61,19 +61,19 @@ int main()
         if (user == "shitou") {
 	    shitou();
         }
-	else if (user == "jiandao") {
-	    jiandao();
-	}
-	else if (user == "bu") {
-	    bu();
-	}
-	else if (user == "QUIT") {
-	    std::cout << num;
-	    break;
-	}
-	else {
-	    std::cout << "again";
-	    continue;
+        else if (user == "jiandao") {
+            jiandao();
+        }
+        else if (user == "bu") {
+            bu();
+        }
+        else if (user == "QUIT") {
+            std::cout << num;
+            break;
+        }
+        else {
+            std::cout << "again";
+            continue;
         }
     }
     return 0;
