@@ -1,6 +1,5 @@
 # ccccpp
-A rock-paper-scissors game implemented in C++
-                  
+A rock-paper-scissors game implemented in C++            
 
 ---
 ## Help
@@ -15,5 +14,3 @@ v2.0
 [Github](https://github.com/fly19992020/ccccpp)
 
 [Github home](https://github.com)
-=======
->>>>>>> 08ddd32a281bcdd11d9f2aee438dce8a1725bb1e
